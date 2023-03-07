@@ -8,6 +8,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxt/image-edge": "1.0.0-27968280.9739e4d",
+    "@nuxtjs/i18n": "8.0.0-beta.10",
     "nuxt": "^3.2.3"
+  },
+  "dependencies": {
+    "sass": "^1.58.3"
   }
 }
